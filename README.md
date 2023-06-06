@@ -12,7 +12,7 @@ Você vai precisar de pouca coisa para gerar uma ISO.
 
 ```
 mkdir -p ~/Build/iso
-mkdir -p ~/Build/uaiso-work-plasma
+mkdir -p ~/Build/uaiso-archiso-plasma
 ```
 ### Instalando o Archiso
 ```
@@ -20,7 +20,7 @@ sudo pacman -S archiso qemu-desktop openssl openssl openssl
 ```
 ### Clonando o Profile do UaiSO do Plasma
 ```
-git clone https://github.com/UaiSO21/rchiso-uaiso-plasma.git ~/Build/uaiso-archiso-plasma
+git clone https://github.com/UaiSO21/archiso-uaiso-plasma.git ~/Build/uaiso-archiso-plasma
 ```
 ### Gerando a ISO do Plasma
 ```
