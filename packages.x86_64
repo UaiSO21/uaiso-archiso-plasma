@@ -53,8 +53,7 @@ partitionmanager
 #REPOSITORIO
 endeavouros-mirrorlist
 endeavouros-keyring
-xero-mirrorlist
-arcolinux-mirrorlist
+arcolinux-mirrorlist-git
 arcolinux-keyring
 chaotic-mirrorlist
 chaotic-keyring
