@@ -12,7 +12,7 @@ Você vai precisar de pouca coisa para gerar uma ISO.
 
 ```
 mkdir -p ~/Build/iso
-mkdir -p ~/Build/uaiso-archiso-plasma
+mkdir -p ~/Build/uaiso-archiso-plasma-work
 ```
 ### Instalando o Archiso
 ```
