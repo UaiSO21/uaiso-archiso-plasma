@@ -27,4 +27,4 @@ git clone https://github.com/UaiSO21/archiso-uaiso-plasma.git ~/Build/uaiso-arch
 sudo mkarchiso -v -w ~/Build/uaiso-archiso-plasma-work -o ~/Build/iso ~/Build/uaiso-archiso-plasma 
 ```
 
-Lembre-se que toda ISO do UaiSO vem com o LXQt na ISO live 
+Lembre-se que toda ISO do UaiSO vem com o LXQt na ISO live  
