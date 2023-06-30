@@ -15,7 +15,7 @@ mkdir -p ~/Build/uaiso-archiso-plasma-work
 ```
 ### Instalando o Archiso
 ```
-sudo pacman -S archiso qemu-desktop openssl openssl openssl
+sudo pacman -S archiso qemu-desktop openssl openssl
 ```
 ### Clonando o Profile do UaiSO do Plasma
 ```
